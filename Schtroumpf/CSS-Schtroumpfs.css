@@ -1,0 +1,12 @@
+h1 {border: 3px solid #0000AA; color: #BB0000; text-align: center; padding: 1px; margin: 5px 25% 5px 25%; background-color: #B0E0E6;}
+h3 {text-decoration: underline; color: #0000BB;}
+ul {list-style-type: circle;}
+table {background-color: #B0E0E6; border: 4px solid navy;}
+th {border: 4px solid navy;}
+td {border: 4px solid gray; height: 100px;}
+
+#grandSchtroumpf:hover { background-image: url(../Images/grandSchtroumpf.jpg);background-size: 50%;background-repeat: no-repeat;background-position: center;}
+#schtroumpfALunettes:hover { background-image: url(../Images/schtroumpfALunettes.jpg);background-size: 50%;background-repeat: no-repeat;background-position: center;}
+#schtroumpfFarceur:hover { background-image: url(../Images/schtroumpfFarceur.jpg);background-size: 50%;background-repeat: no-repeat;background-position: center;}
+#schtroumpfette:hover { background-image: url(../Images/schtroumpfette.jpg);background-size: 50%;background-repeat: no-repeat;background-position: center;}
+.fond {background-color: #00CEAA;}

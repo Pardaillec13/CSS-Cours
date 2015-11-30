@@ -1,0 +1,76 @@
+/* 
+ 
+
+ligne horizontale : bordure effet 3D clair/foncé de couleur #A52A2A
+                    marge intérieure 1pt
+                    longueur sur toute la page
+
+encadré+tableau calé à gauche, image à droite, ligne horizontale en dessous */
+body {
+	background-color: #FEE9D8;
+}
+
+h2 {
+	border: double #DEB887 2pt;
+	text-align: center;
+	color: #DEB887;
+	width: 60%;
+	margin-left: 10%; 
+}
+
+h2::first-letter {
+	font-style: italic;
+	color: #A52A2A;
+	font-size: 250%;
+}
+
+p::first-letter {
+	font-style: italic;
+	font-size: 250%;
+	font-weight: bold;
+	color: #A52A2A;
+}
+
+fieldset {
+	border: 2pt solid #A52A2A;
+	margin-top: 20%;
+	margin-bottom: 60%;
+	width: 100%;
+}
+
+img {
+	width: 25%;
+	position: absolute;
+	right: 10%;
+}
+
+table {
+	border: 3pt outset #A52A2A;
+	background-color: #DEB887;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+div {
+	position: absolute;
+	left: 5%;
+}
+
+.gras {
+	font-weight: bold;
+}
+
+th,td {
+	border: 1pt solid #A52A2A;
+	padding: 1pt;
+}
+
+hr {
+	border: 2px outset #A52A2A;
+	width: 100%;
+	padding: 1pt;
+	position: absolute;
+	bottom: -17%;
+
+}

@@ -1,0 +1,12 @@
+body {background-color: rgb(120,177,210);}
+h1 {text-align: center;}
+p {font-weight: bold; color: blue;}
+li {list-style-type: upper-roman;}
+table {border:3px dotted black;}
+th {background-color: rgb(0,127,238)}
+td {background-color: rgb(120,177,248)}
+div {float: left;}
+
+.v {font-style: italic; font-size: 64px; color: #BB00FB;}
+.divcentre {margin-left: 28%;}
+

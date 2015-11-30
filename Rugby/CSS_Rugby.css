@@ -1,0 +1,7 @@
+div {background-color: aqua; padding: 10px 0px 10px 0px;}
+#lime {background-color: lime;}
+h1 {border: 5px groove; border-color: rgb(240,0,128); text-align: center; margin: 0% 30% 0% 30%; color: navy;}
+p {font-weight: bold; color: rgb(240,0,128);}
+select {background-color: aqua; font-weight: bold; color: blue;font-style: italic;}
+option {font-weight: bold; color: blue;font-style: italic;}
+.decalage {margin-left: 30px;}
